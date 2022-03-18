@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Canvas {
+  margin-top: 2rem;
+}
+.gameControl {
+  width: 400px;
+  display: flex;
+  margin: 20px auto;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  width: 100px;
+  display: block;
+  padding: 10px 30px;
+}
+.Controls {
+  margin: 0 auto;
+}
+ul {
+  width: fit-content;
+  list-style: none;
+  padding-left: 0;
+  text-align: left;
+}
